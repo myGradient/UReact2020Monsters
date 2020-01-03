@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/UReact2020Monsters/static/css/main.d3c9546c.chunk.css",
+    "main.js": "/UReact2020Monsters/static/js/main.31c70c76.chunk.js",
+    "main.js.map": "/UReact2020Monsters/static/js/main.31c70c76.chunk.js.map",
+    "runtime-main.js": "/UReact2020Monsters/static/js/runtime-main.88217eb9.js",
+    "runtime-main.js.map": "/UReact2020Monsters/static/js/runtime-main.88217eb9.js.map",
+    "static/js/2.7db90bec.chunk.js": "/UReact2020Monsters/static/js/2.7db90bec.chunk.js",
+    "static/js/2.7db90bec.chunk.js.map": "/UReact2020Monsters/static/js/2.7db90bec.chunk.js.map",
+    "index.html": "/UReact2020Monsters/index.html",
+    "precache-manifest.5d1f51a905260493d295ddaddb4a64f8.js": "/UReact2020Monsters/precache-manifest.5d1f51a905260493d295ddaddb4a64f8.js",
+    "service-worker.js": "/UReact2020Monsters/service-worker.js",
+    "static/css/main.d3c9546c.chunk.css.map": "/UReact2020Monsters/static/css/main.d3c9546c.chunk.css.map",
+    "static/js/2.7db90bec.chunk.js.LICENSE": "/UReact2020Monsters/static/js/2.7db90bec.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88217eb9.js",
+    "static/js/2.7db90bec.chunk.js",
+    "static/css/main.d3c9546c.chunk.css",
+    "static/js/main.31c70c76.chunk.js"
+  ]
+}
